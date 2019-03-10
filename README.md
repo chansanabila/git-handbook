@@ -7,7 +7,7 @@ Kunjungi [Development Stack & Tools](https://github.com/pt-dot/development-stack
 
 ---
 # Table of Contents
-1. Perintah Dasar dalam Git
+1. [Perintah Dasar dalam Git](#perintah-dasar-dalam-git)
 2. Main Branches
 3. Supporting Branches
 ---
