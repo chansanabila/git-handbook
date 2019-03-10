@@ -7,9 +7,16 @@ Kunjungi [Development Stack & Tools](https://github.com/pt-dot/development-stack
 
 ---
 # Table of Contents
-1. [Perintah Dasar dalam Git](#perintah-dasar-dalam-git)
-2. Main Branches
-3. Supporting Branches
+1. [Repository](#repository)
+2. [Perintah Dasar dalam Git](#perintah-dasar-dalam-git)
+3. Git Flow
+    - Main Branches
+    - Supporting Branches
+
+---
+## Repository
+Sebuah repository mencakup keseluruhan file dan folderdari suatu project beserta semua _history of changes_ atau riwayat perubahan.
+
 ---
 
 ## Perintah Dasar dalam Git
